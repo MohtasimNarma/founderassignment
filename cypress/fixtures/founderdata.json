@@ -1,0 +1,13 @@
+{
+
+    "url": "https://www.founderandlightning.com",
+    "Firstname": "Ryan",
+    "Lastname": "Ward",
+    "InvalidFormalEmail": "Test",
+    "InavlidEmailaddress": "Test@kkk.iiii",
+    "ValidEmail": "ryan.ward@yahoo.com",
+    "Invalidphoneno": "TEST",
+    "Invalidno": "1234",
+    "Message": "Assignment",
+    "ValidPhoneno": "+917865554434"
+}
